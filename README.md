@@ -1,6 +1,6 @@
 <!-- Profile Banner: Vibrant Neon Chroma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=200&section=header&text=Aditya469&fontSize=60&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff&descSize=20" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=200&section=header&text=Rama%20Krishna%20Aditya%20Bharadwaj%20Kolluri&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff&descSize=20" alt="banner"/>
 </p>
 
 
