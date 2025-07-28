@@ -1,15 +1,8 @@
-<!-- Profile Banner: NEON / CHROMA SILK BLEND -->
+<!-- Profile Banner: Vibrant Neon Chroma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14,00FFF7,00BFFF,1fa2ff,833ab4&height=180&section=header
-  &text=Aditya469%20%7C%20AI%20%7C%20Business%20Intelligence%20%7C%20Automation
-  &fontSize=45
-  &fontColor=000000
-  &fontAlignY=36
-  &desc=Elevating%20Intelligent%20Automation%20and%20Operations%20at%20Scale
-  &descAlign=70
-  &descAlignY=60
-  &animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14,00FFF7,1fa2ff,833ab4&height=180&section=header&text=Aditya469%20%7C%20AI%20%7C%20Business%20Intelligence%20%7C%20Automation&fontSize=45&fontAlignY=36&desc=Elevating%20Intelligent%20Automation%20and%20Operations%20at%20Scale&descAlign=70&descAlignY=60&animation=fadeIn&fontColor=000000" alt="banner"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya469&label=PROFILE+VIEWS" alt="views"/>
