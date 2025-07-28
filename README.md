@@ -109,22 +109,3 @@ I thrive at the **intersection of AI, data, automation, and manufacturing.** Alw
 <p align="center">
   <b>⭐️ Collaborate. Automate. Impact. Let's build the <span style="color:#2962FF;">future</span> of intelligent processes! ⭐️</b>
 </p>
-
----
-
-## 📝 Tips to Maximize Your Trophies/Stats
-
-- Regularly commit to open source (original work, not just forks)
-- Use rich READMEs with badges and live widgets (see above)
-- Enable private contributions in settings for activity graph
-- Earn badges by reviewing PRs, merging, “star”-gathering and collaborating
-- Join trending projects and communities (AI, ML, IoT, Business Intelligence, Robotics)
-
----
-
-**Paste the above code into your `Aditya469/README.md` file.  
-Commit, push, and your top-1% GitHub profile is LIVE!**
-
----
-
-*Maintain and update your trophies and pinned projects as you grow. Let me know if you want one-click GitHub Actions for dynamic blog/feed/stats/quotes or even more customization!*
