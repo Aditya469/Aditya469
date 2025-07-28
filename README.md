@@ -1,13 +1,13 @@
 <!-- Profile Banner: Vibrant Neon Chroma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:4169E1&height=200&section=header&text=Rama%20Krishna%20Aditya%20Bharadwaj%20Kolluri&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=00FF00&descSize=20" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:4169E1&height=200&section=header&text=Rama%20Krishna%20Aditya%20Bharadwaj%20Kolluri&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=FFFFFF&descSize=20" alt="banner"/>
 </p>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya469&label=PROFILE+VIEWS" alt="views"/>
   <a href="mailto:aditya.kolluri0@gmail.com"><img src="https://img.shields.io/badge/email-aditya.kolluri0@gmail.com-EA4335?style=flat-square&logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/rama-kolluri-krkab369/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/krkab369/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/Aditya469"><img src="https://img.shields.io/github/followers/Aditya469?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 # 👋 Hey, I'm Rama Krishna Aditya Bharadwaj Kolluri, can be called as Aditya/Rama!
 
-> *Driving AI, Business Intelligence, and Automation from blueprint to real-world manufacturing impact.*
+> *Driving AI, Business Intelligence, and Automation from blueprint to real-world implementation impact.*
 
 - 🎯 **Business Systems & Technology Analyst (KTP Associate)** @ [Birmingham City University](https://www.bcu.ac.uk/) & [ECAM Engineering Limited](https://www.ecamengineering.com/), Stoke-on-Trent, UK  
 - 🎯 **Graduate Project Engineer (Automation, AI, Data)** @ [DigitME2, UCLan](https://digitme.co.uk/about/team/), Burnley, UK  
