@@ -1,6 +1,6 @@
 <!-- Profile Banner: Vibrant Neon Chroma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=200&section=header&text=Rama%20Krishna%20Aditya%20Bharadwaj%20Kolluri&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff&descSize=20" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:4169E1&height=200&section=header&text=Rama%20Krishna%20Aditya%20Bharadwaj%20Kolluri&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Business%20Intelligence%20%7C%20Automation%20%7C%20Elevating%20Intelligent%20Operations&descAlign=50&descAlignY=55&animation=twinkling&fontColor=00FF00&descSize=20" alt="banner"/>
 </p>
 
 
@@ -13,10 +13,11 @@
 
 ---
 
-# 👋 Hey, I’m Rama Krishna Aditya Bharadwaj Kolluri, can be called as Aditya/Rama!
+# 👋 Hey, I'm Rama Krishna Aditya Bharadwaj Kolluri, can be called as Aditya/Rama!
 
 > *Driving AI, Business Intelligence, and Automation from blueprint to real-world manufacturing impact.*
 
+- 🎯 **Business Systems & Technology Analyst (KTP Associate)** @ [Birmingham City University](https://www.bcu.ac.uk/) & [ECAM Engineering Limited](https://www.ecamengineering.com/), Stoke-on-Trent, UK  
 - 🎯 **Graduate Project Engineer (Automation, AI, Data)** @ [DigitME2, UCLan](https://digitme.co.uk/about/team/), Burnley, UK  
 - 🌍 **Preston, UK** | 🛰️ Prev: Egypt (Erasmus+), India (Amazon) | Born: Andhra Pradesh, India  
 - 🔁 *Smart planetary rover builder, automation tester, manufacturing digitalizer, open-source & AI innovator*
