@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2eb872,1fa2ff,833ab4&height=180&section=header&text=Aditya469%20%7C%20AI%20%7C%20DevOps%20%7C%20Automation&fontSize=45&fontAlignY=36&desc=Elevating%20Intelligent%20Automation%20and%20Ops%20at%20Scale&descAlign=65&descAlignY=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2eb872,1fa2ff,833ab4&height=180&section=header&text=Aditya469%20%7C%20AI%20%7C%20Business Intelligence%20%7C%20Automation&fontSize=45&fontAlignY=36&desc=Elevating%20Intelligent%20Automation%20and%20Operations%20at%20Scale&descAlign=65&descAlignY=60" alt="banner"/>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-# 👋 Hey, I’m Aditya!
+# 👋 Hey, I’m Rama Krishna Aditya Bharadwaj Kolluri, can be called as Aditya/Rama!
 
-> *Driving AI, DevOps, and Automation from blueprint to real-world manufacturing impact.*
+> *Driving AI, Business Intelligence, and Automation from blueprint to real-world manufacturing impact.*
 
 - 🎯 **Graduate Project Engineer (Automation, AI, Data)** @ [DigitME2, UCLan](https://digitme.co.uk/about/team/), Burnley, UK  
 - 🌍 **Preston, UK** | 🛰️ Prev: Egypt (Erasmus+), India (Amazon) | Born: Andhra Pradesh, India  
@@ -116,7 +116,7 @@ I thrive at the **intersection of AI, data, automation, and manufacturing.** Alw
 - Use rich READMEs with badges and live widgets (see above)
 - Enable private contributions in settings for activity graph
 - Earn badges by reviewing PRs, merging, “star”-gathering and collaborating
-- Join trending projects and communities (AI, MLOps, DevOps, Robotics)
+- Join trending projects and communities (AI, ML, IoT, Business Intelligence, Robotics)
 
 ---
 
