@@ -17,6 +17,7 @@
 
 > *Driving AI, Business Intelligence, and Automation from blueprint to real-world implementation impact.*
 
+- 🎯 **Business Intelligence Manager** @ [ECAM Engineering Limited](https://www.ecamengineering.com/), Stoke-on-Trent, UK
 - 🎯 **Business Systems & Technology Analyst (KTP Associate)** @ [Birmingham City University](https://www.bcu.ac.uk/) & [ECAM Engineering Limited](https://www.ecamengineering.com/), Stoke-on-Trent, UK  
 - 🎯 **Graduate Project Engineer (Automation, AI, Data)** @ [DigitME2, UCLan](https://digitme.co.uk/about/team/), Burnley, UK  
 - 🌍 **Preston, UK** | 🛰️ Prev: Egypt (Erasmus+), India (Amazon) | Born: Andhra Pradesh, India  
