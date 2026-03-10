@@ -109,31 +109,21 @@
 
 ---
 
-## 🏅 Trophies & Profile Flair
+## 🏅 Contribution Activity & Profile Flair
 
-<!-- ============================================================
-     TROPHY SVG — Generated locally via GitHub Actions.
-     No external Vercel service dependency. Updates daily.
-     See: .github/workflows/generate-trophies.yml
-     ============================================================ -->
+<!-- CONTRIBUTION CALENDAR: ghchart.rshah.org — NOT on Vercel, self-hosted Ruby server, extremely reliable -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./trophy.svg" alt="GitHub Profile Trophies"/>
+  <a href="https://github.com/Aditya469">
+    <img src="https://ghchart.rshah.org/1E90FF/Aditya469" alt="Aditya469's GitHub Contribution Calendar"/>
   </a>
 </p>
 
-<!-- SETUP INSTRUCTIONS (one-time, ~2 min):
-  1. In your Aditya469/Aditya469 profile repo, create:
-       .github/workflows/generate-trophies.yml
-     (use the workflow file provided alongside this README)
-  2. Go to repo Settings > Actions > General > Workflow permissions
-     → Select "Read and write permissions"
-     → Save
-  3. Go to Actions tab > "Generate GitHub Profile Trophies" > Run workflow
-  4. After it completes, a trophy.svg file appears in your repo root
-  5. This README already points to ./trophy.svg — done!
-  6. The workflow runs daily at midnight UTC to keep trophies updated.
--->
+<!-- ACTIVITY GRAPH: Shows last 31 days of contribution activity as a line graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya469&theme=tokyo-night&area=true&hide_border=true" alt="Aditya469's GitHub Activity Graph"/>
+  </a>
+</p>
 
 ---
 
