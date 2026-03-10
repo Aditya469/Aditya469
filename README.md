@@ -111,32 +111,28 @@
 
 ## 🏅 Trophies & Profile Flair
 
-<!-- PRIMARY: Volunteer-hosted mirror from official ryo-ma/github-profile-trophy repo (load-balanced) -->
+<!-- ============================================================
+     TROPHY SVG — Generated locally via GitHub Actions.
+     No external Vercel service dependency. Updates daily.
+     See: .github/workflows/generate-trophies.yml
+     ============================================================ -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+    <img src="./trophy.svg" alt="GitHub Profile Trophies"/>
   </a>
 </p>
 
-<!-- FALLBACK MIRRORS — uncomment one if the primary above breaks:
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
--->
-
-<!-- PERMANENT FIX: Self-host trophies on Vercel (free, ~5 min):
-  1. Fork https://github.com/ryo-ma/github-profile-trophy
-  2. Deploy the fork on Vercel: https://vercel.com/import
-  3. Replace the URL above with: https://YOUR-TROPHY-APP.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true
+<!-- SETUP INSTRUCTIONS (one-time, ~2 min):
+  1. In your Aditya469/Aditya469 profile repo, create:
+       .github/workflows/generate-trophies.yml
+     (use the workflow file provided alongside this README)
+  2. Go to repo Settings > Actions > General > Workflow permissions
+     → Select "Read and write permissions"
+     → Save
+  3. Go to Actions tab > "Generate GitHub Profile Trophies" > Run workflow
+  4. After it completes, a trophy.svg file appears in your repo root
+  5. This README already points to ./trophy.svg — done!
+  6. The workflow runs daily at midnight UTC to keep trophies updated.
 -->
 
 ---
@@ -168,15 +164,14 @@
   </a>
 </p>
 
-<!-- STREAK STATS: demolab.com is self-hosted and works reliably — keep as-is -->
+<!-- STREAK STATS: demolab.com is self-hosted and works reliably -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Aditya469&theme=tokyonight" alt="GitHub Streak"/>
   </a>
 </p>
 
-<!-- OPTION B (COMMENTED OUT): Original github-readme-stats cards.
-     These use the PUBLIC Vercel instance which is heavily rate-limited (broken most of the time).
+<!-- OPTION B (COMMENTED OUT): Original github-readme-stats — unreliable due to Vercel free-tier rate limits.
      Only uncomment these if you self-host your own Vercel instance (see instructions below).
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -215,10 +210,8 @@
 | Certification | Issuer |
 |---------------|--------|
 | **AgilePM® Certification** | APMG International |
-| **Knowledge Transfer Partnership Associates Conference 2024** | Innovate UK / KTN |
 | **Business Analysis: Essential Tools and Techniques** | LinkedIn Learning |
 | **ChatGPT Prompt Engineering for Developers** | DeepLearning.AI |
-| **Business Agility Professional Level 1** | — |
 | **Neural Networks and Deep Learning** | DeepLearning.AI / Coursera |
 | **AWS Cloud Practitioner** | Amazon Web Services |
 | **Python (Programming for Everybody)** | University of Michigan / Coursera |
@@ -233,8 +226,6 @@
 | **English** | Full Professional |
 | **Hindi** | Limited Working |
 | **Telugu** | Native / Bilingual |
-| **Tamil** | Conversational |
-| **German** | Basic |
 
 ---
 
@@ -251,7 +242,8 @@
 
 ## 💬 Fun Fact
 
-I thrive at the **intersection of AI, data, automation, and manufacturing.** Always learning, always sharing—let's innovate together!
+I thrive at the **intersection of AI, data, automation, and engineering.** Always learning, always sharing—let's innovate together!
+
 
 <p align="center">
   <b>⭐️ Collaborate. Automate. Impact. Let's build the <span style="color:#2962FF;">future</span> of intelligent processes! ⭐️</b>
