@@ -13,7 +13,7 @@
 
 ---
 
-# 👋 Hey, I'm Rama Krishna Aditya Bharadwaj Kolluri, can be called as Aditya/Rama!
+# 👋 Hey, I'm Rama Krishna Aditya Bharadwaj Kolluri, can call as Aditya/Rama !
 
 > *Driving AI, Business Intelligence, and Automation from blueprint to real-world implementation impact.*
 
@@ -111,39 +111,92 @@
 
 ## 🏅 Trophies & Profile Flair
 
+<!-- PRIMARY: Volunteer-hosted mirror from official ryo-ma/github-profile-trophy repo (load-balanced) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+    <img src="https://github-profile-trophy-winning.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
   </a>
 </p>
 
-<!-- Fallback: If the above doesn't render, try this alternative mirror -->
-<!-- <img src="https://github-trophies.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/> -->
+<!-- FALLBACK MIRRORS — uncomment one if the primary above breaks:
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true" alt="trophies"/>
+</p>
+-->
+
+<!-- PERMANENT FIX: Self-host trophies on Vercel (free, ~5 min):
+  1. Fork https://github.com/ryo-ma/github-profile-trophy
+  2. Deploy the fork on Vercel: https://vercel.com/import
+  3. Replace the URL above with: https://YOUR-TROPHY-APP.vercel.app/?username=Aditya469&theme=gruvbox&column=7&margin-w=10&no-frame=true
+-->
 
 ---
 
 ## 📈 Stats & Languages
 
+<!-- github-profile-summary-cards: a separate, more reliable project than github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aditya469&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya469&theme=tokyonight" alt="Profile Details"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya469&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya469&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya469&theme=tokyonight" alt="Top Languages by Repo"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya469&theme=tokyonight" alt="Top Languages by Commit"/>
+  </a>
+</p>
+
+<!-- STREAK STATS: demolab.com is self-hosted and works reliably — keep as-is -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Aditya469&theme=tokyonight" alt="GitHub Streak"/>
   </a>
 </p>
 
-<!-- Fallback: If demolab is down, use the community Vercel fork -->
-<!-- <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aditya469&theme=tokyonight" alt="GitHub Streak"/> -->
-
+<!-- OPTION B (COMMENTED OUT): Original github-readme-stats cards.
+     These use the PUBLIC Vercel instance which is heavily rate-limited (broken most of the time).
+     Only uncomment these if you self-host your own Vercel instance (see instructions below).
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aditya469&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya469&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
 </p>
+-->
+
+<!-- PERMANENT FIX for github-readme-stats — self-host on Vercel (free, ~5 min):
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Create a GitHub Personal Access Token (no scopes needed): https://github.com/settings/tokens/new
+  3. Deploy your fork on Vercel (https://vercel.com/import), set environment variable PAT_1 = your token
+  4. Replace URLs with: https://YOUR-STATS-APP.vercel.app/api?username=Aditya469&show_icons=true&theme=tokyonight&count_private=true
+  This gives you a private instance with your own GitHub API rate limits — permanent fix.
+-->
 
 ---
 
@@ -152,8 +205,8 @@
 | Degree | Institution | Period | Details |
 |--------|-------------|--------|---------|
 | **PhD** — AI-Driven Maintenance Optimization for Solar Minigrids | Birmingham City University, UK | Feb 2026 – Feb 2029 | Doctoral research under SMART-SIP+ / UKRI EPSRC Ayrton Challenge Programme |
-| **MSc Mechatronics, Robotics & Automation** | University of Central Lancashire (UCLan), UK | Jan 2020 – Oct 2021 | Distinction |
-| **BTech Mechanical Engineering** | Vishnu Institute of Technology, India | 2013 – 2017 | — |
+| **MSc Mechatronics and Intelligent Machines** | University of Central Lancashire (UCLan), UK | Jan 2020 – Oct 2021 | AI & IIoT, Advanced Mechatronics Systems, and Control Systems |
+| **BTech Mechanical Engineering** | Vishnu Institute of Technology, India | 2013 – 2017 | Mechanics, Thermodynamics, fluid dynamics, Production Technology, and Other Mechanical Engineering Foundations |
 
 ---
 
