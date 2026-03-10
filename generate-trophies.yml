@@ -1,0 +1,33 @@
+name: Generate GitHub Profile Trophies
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Aditya469
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: Set theme (gruvbox, onedark, flat, etc.)
+          # theme: gruvbox
+
+      - name: Commit and push trophy SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add trophy.svg
+          git diff --staged --quiet || git commit -m "chore: update GitHub profile trophies [skip ci]"
+          git push
