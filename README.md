@@ -58,7 +58,7 @@
 
 ### 🔬 Doctoral Researcher — Birmingham City University *(Feb 2026 – Feb 2029)*
 - Researching **AI-Driven Maintenance Optimization for Solar Minigrids** under the SMART-SIP+ / UKRI EPSRC Ayrton Challenge Programme.
-- Focus areas: Predictive Maintenance (PdM), Digital Twins, IoT Pipelines, BESS, PHM, and RUL prediction for off-grid renewable energy systems.
+- Focus areas: Predictive Maintenance (PdM), Digital Twins, Artificial Intelligence (AI), Internet of Things (IoT), Business Modelling, Inclusivity, and Component's Remianing Useful Life (RUL) prediction using AI for off-grid Solar Minigrid/Microgrid.
 
 ### 📊 Business Intelligence Manager — ECAM Engineering Limited *(Aug 2025 – Present)*
 - Driving data optimisation from shop floor operations to strategic planning for smarter, faster business decisions.
