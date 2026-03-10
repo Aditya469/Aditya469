@@ -132,12 +132,6 @@
 <!-- github-profile-summary-cards: a separate, more reliable project than github-readme-stats -->
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya469&theme=tokyonight" alt="Profile Details"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya469&theme=tokyonight" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
